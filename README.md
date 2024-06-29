@@ -30,7 +30,9 @@ Mod elements that are not mentioned are completely supported with all available 
 
 ## Credits/License
 Dev - [Goldorion](https://github.com/Goldorion)
+
 MCreator 2024 Port - [Gamer Ben](https://github.com/gamerbenyt)
+
 This generator re-uses code used from the official Forge generators.
 
 Licensed under the GNU Lesser General Public License, version 3.0  
