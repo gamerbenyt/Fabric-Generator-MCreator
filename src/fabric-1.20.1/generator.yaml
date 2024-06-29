@@ -1,6 +1,6 @@
 name: Minecraft Fabric for @minecraft - @buildfileversion
 status: experimental
-buildfileversion: 0.83.1
+buildfileversion: 47.3.0
 subversion: 25
 
 import:
@@ -9,7 +9,7 @@ import:
 
 java_models:
   key: mojmap-1.20.x
-  compatible: [mojmap-1.17.x, mojmap-1.18.x, mojmap-1.19.x, mojmap-1.20.x]
+  compatible: [mojmap-1.17.x, mojmap-1.18.x, mojmap-1.19.x, mojmap-1.20]
   requested_key_words: [ModelPart, ~ModelRenderer]
 
 gradle:
