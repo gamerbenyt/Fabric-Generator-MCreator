@@ -1,7 +1,7 @@
 {
   "id": "generator-fabric-1.20.1",
-  "minversion": 2024118518,
-  "maxversion": 2024118518,
+  "minversion": 202400118518,
+  "maxversion": 202400118518,
   "weight":  11,
   "info": {
     "name": "Minecraft Fabric 1.20.1 Generator",
